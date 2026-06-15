@@ -1,0 +1,66 @@
+{
+  "editorVersion": "6.5.40",
+  "docType": "5",
+  "title": "Dummy Load-40dB",
+  "description": "",
+  "colors": {},
+  "schematics": [
+    {
+      "docType": "1",
+      "title": "Sheet_1",
+      "description": "",
+      "dataStr": {
+        "head": {
+          "docType": "1",
+          "editorVersion": "6.5.40",
+          "newgId": true,
+          "c_para": {
+            "Prefix Start": "1"
+          },
+          "c_spiceCmd": "null",
+          "hasIdFlag": true,
+          "uuid": "95df3d5e0c71c7050326540be7c0cce4",
+          "x": "0",
+          "y": "0",
+          "portOfADImportHack": "",
+          "importFlag": 0,
+          "transformList": ""
+        },
+        "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~0~0",
+        "shape": [
+          "LIB~0~-806~package`NONE`Manufacturer Part`?`spicePre`.`~~0~frame_lib_1~~~0~025a1406f784f344~yes~yes~~~#@$T~N~570.83~-809~0~#000080~Arial~~~~~comment~A~0~start~gge223~0~pinpart#@$PT~M 206 -796 L 206 -806 M 206 -10 L 206 0 M 402 -796 L 402 -806 M 402 -10 L 402 0 M 598 -796 L 598 -806 M 598 -10 L 598 0 M 794 -796 L 794 -806 M 794 -10 L 794 0 M 990 -796 L 990 -806 M 990 -10 L 990 0 M 10 -600 L 0 -600 M 1139 -600 L 1149 -600 M 10 -404 L 0 -404 M 1139 -404 L 1149 -404 M 10 -208 L 0 -208 M 1139 -208 L 1149 -208 M 10 -12 L 0 -12 M 1139 -12 L 1149 -12~#880000~1~0~none~gge10~0~frame_tick#@$T~P~571.5~-818~0~#000080~Arial~~~~~comment~A~0~start~gge220~0~pinpart#@$T~L~1.5~-698~0~#880000~~~~~~comment~A~1~start~gge13~0~frame_tick#@$T~L~1140.5~-698~0~#880000~~~~~~comment~A~1~start~gge19~0~frame_tick#@$T~L~1.5~-502~0~#880000~~~~~~comment~B~1~start~gge25~0~frame_tick#@$T~L~1140.5~-502~0~#880000~~~~~~comment~B~1~start~gge31~0~frame_tick#@$T~L~1.5~-306~0~#880000~~~~~~comment~C~1~start~gge37~0~frame_tick#@$T~L~1140.5~-306~0~#880000~~~~~~comment~C~1~start~gge43~0~frame_tick#@$T~L~1.5~-110~0~#880000~~~~~~comment~D~1~start~gge49~0~frame_tick#@$T~L~1140.5~-110~0~#880000~~~~~~comment~D~1~start~gge55~0~frame_tick#@$T~L~108~-797.5~0~#880000~~~~~~comment~1~1~start~gge61~0~frame_tick#@$T~L~108~-1.5~0~#880000~~~~~~comment~1~1~start~gge67~0~frame_tick#@$T~L~304~-797.5~0~#880000~~~~~~comment~2~1~start~gge73~0~frame_tick#@$T~L~304~-1.5~0~#880000~~~~~~comment~2~1~start~gge79~0~frame_tick#@$T~L~500~-797.5~0~#880000~~~~~~comment~3~1~start~gge85~0~frame_tick#@$T~L~500~-1.5~0~#880000~~~~~~comment~3~1~start~gge91~0~frame_tick#@$T~L~696~-797.5~0~#880000~~~~~~comment~4~1~start~gge97~0~frame_tick#@$T~L~696~-1.5~0~#880000~~~~~~comment~4~1~start~gge103~0~frame_tick#@$T~L~892~-797.5~0~#880000~~~~~~comment~5~1~start~gge109~0~frame_tick#@$T~L~892~-1.5~0~#880000~~~~~~comment~5~1~start~gge115~0~frame_tick#@$R~10~-796~~~1129~786~#880000~1~0~none~gge121~0~frame_innerbox#@$R~0~-806~~~1149~806~#880000~1~0~none~gge124~0~frame_outbox#@$R~694.99995~-90~~~444~80~#880000~1~0~none~gge127~0~frame_hitarea#@$PL~695.1 -50.75 1138.63 -50.75~#880000~1~0~none~gge130~0#@$PL~799.63 -30.75 1138.63 -30.75~#880000~1~0~none~gge133~0#@$PL~1059.61 -89.93 1059.63 -50.75~#880000~1~0~none~gge136~0#@$PL~1059.63 -50.75 1059.63 -30.75~#880000~1~0~none~gge139~0#@$T~L~699.99995~-77~0~#880000~~8pt~~~~comment~TITLE:~1~start~gge142~0~pinpart#@$T~L~757.62495~-64.41~0~#0000FF~~10pt~~~~comment~Dummy Load Shortwave with -40DB output~1~start~gge148~0~frame_title#@$T~L~1064.62495~-63.75~0~#880000~~8pt~~~~comment~REV:~1~start~gge154~0~pinpart#@$T~L~1102.62495~-63.75~0~#0000FF~~9pt~~~~comment~1.0~1~start~gge160~0~frame_version#@$T~L~804.62495~-15~0~#880000~~8pt~~~~comment~Date:~1~start~gge166~0~pinpart#@$T~L~851.62495~-14.52~0~#0000FF~~9pt~~~~comment~2026-06-15~1~start~gge172~0~frame_date#@$T~L~1063.62495~-35~0~#880000~~8pt~~~~comment~Sheet:~1~start~gge178~0~pinpart#@$T~L~1108.62495~-34.52~0~#0000FF~~9pt~~~~comment~1/1~1~start~gge184~0~frame_sheet#@$T~L~943.62495~-14.75~0~#880000~~8pt~~~~comment~Drawn By:~1~start~gge190~0~pinpart#@$T~L~804.62495~-36.75~0~#880000~~8pt~~~~comment~Company:~1~start~gge202~0~pinpart#@$T~L~871.24995~-36.64~0~#0000FF~~9pt~~~~comment~DF3MT Ham Radio Operator~1~start~gge208~0~frame_company#@$PL~799.63 -50.75 799.63 -10.75~#880000~1~0~none~gge214~0",
+          "LIB~475~-430~package`R0603`nameAlias`Value(Ω)`Supplier Part``Supplier``Contributor`LCEDA_Lib`spicePre`R`spiceSymbolName`R_0603_EU`Manufacturer Part``~270~0~gge736134d3634e7795~398691f1f785460098bbe5ee6590333c~bb009484ef804a24ac5d18c54b249586~0~8b938627b8d39e91~yes~yes~~1586862199~#@$T~N~482~-417.89~0~#000080~Arial~~~~~comment~R100~1~start~gge226~0~pinpart#@$T~P~482~-426.67~0~#000080~Arial~~~~~comment~R1~1~start~gge235~0~pinpart#@$R~470~-440~~~10~20~#A00000~1~0~none~gge241~0~#@$P~show~0~2~475~-410~270~gge244~0^^475~-410^^M 475 -420 v 10~#800^^0~475~-424~270~2~start~~~#800^^0~471~-416~270~2~end~~~#800^^0~475~-397^^0~M 478 -400 L 475 -403 L 472 -400#@$P~show~0~1~475~-450~90~gge265~0^^475~-450^^M 475 -440 v -10~#800^^0~475~-436~270~1~end~~~#800^^0~471~-444~270~1~start~~~#800^^0~475~-463^^0~M 472 -460 L 475 -457 L 478 -460",
+          "LIB~515~-430~package`R0603`nameAlias`Value(Ω)`Supplier Part``Supplier``Contributor`LCEDA_Lib`spicePre`R`spiceSymbolName`R_0603_EU`Manufacturer Part``~270~0~gge3f30fe1820d3f11d~398691f1f785460098bbe5ee6590333c~bb009484ef804a24ac5d18c54b249586~0~e96cf201bb4a68e0~yes~yes~~1586862199~#@$T~N~522~-417.89~0~#000080~Arial~~~~~comment~R100~1~start~gge292~0~pinpart#@$T~P~522~-426.67~0~#000080~Arial~~~~~comment~R1~1~start~gge298~0~pinpart#@$R~510~-440~~~10~20~#A00000~1~0~none~gge304~0~#@$P~show~0~2~515~-410~270~gge307~0^^515~-410^^M 515 -420 v 10~#800^^0~515~-424~270~2~start~~~#800^^0~511~-416~270~2~end~~~#800^^0~515~-397^^0~M 518 -400 L 515 -403 L 512 -400#@$P~show~0~1~515~-450~90~gge328~0^^515~-450^^M 515 -440 v -10~#800^^0~515~-436~270~1~end~~~#800^^0~511~-444~270~1~start~~~#800^^0~515~-463^^0~M 512 -460 L 515 -457 L 518 -460",
+          "LIB~440~-445~package`BNC`description`BNC Connector, Mouser Part# 5227161`Contributor`SparkFun`spicePre`U`spiceSymbolName`BNCPTH`Manufacturer Part``~~0~ggefaa9ae52978eabaa~ce2a4e6f222d4c1ca29866726d120f90~e8295cd7688d422db4e96654a94435a1~0~465a47228477adaa~yes~yes~ab46d52788f24df48ce072a036649f08~1543270334~e24aac30db05486389b2638470b9b009#@$T~N~417.19~-461.75~0~#000080~Arial~~~~~comment~TRX HF IN~1~start~gge10900~0~pinpart#@$T~P~430.47~-471.75~0~#000080~Arial~~~~~comment~SO239~1~start~gge10906~0~pinpart#@$E~435~-450~10~10~#8D2323~1~0~none~gge10912~0#@$E~435~-450~2~2~#8D2323~1~0~none~gge10915~0#@$T~L~410~-440~0~#8D2323~~7~ ~ ~ ~comment~GND~1~start~gge10918~0~pinpart#@$T~L~450~-455~0~#8D2323~~7~ ~ ~ ~comment~IN~1~start~gge10924~0~pinpart#@$P~show~1~S~455~-450~0~gge10930~0^^455~-450^^M 455 -450 h -20~#8D2323^^0~432~-447~0~OUT~end~~~#8D2323^^0~441~-451~0~S~start~~~#8D2323^^0~438~-450^^0~M 435 -453 L 432 -450 L 435 -447#@$P~show~0~GND~435~-430~270~gge10951~0^^435~-430^^M 435 -430 v -10~#8D2323^^0~438~-443~270~GND~start~~~#8D2323^^0~434~-434~270~GND~end~~~#8D2323^^0~435~-437^^0~M 438 -440 L 435 -443 L 432 -440",
+          "LIB~650~-430~package`R0603`nameAlias`Value(Ω)`Supplier Part``Supplier``Contributor`LCEDA_Lib`spicePre`R`spiceSymbolName`R_0603_EU`Manufacturer Part``~270~0~ggeb23b9a67f2cf0d77~398691f1f785460098bbe5ee6590333c~bb009484ef804a24ac5d18c54b249586~0~a6cf9b005a95fb70~yes~yes~~1586862199~#@$T~N~657~-417.89~0~#000080~Arial~~~~~comment~R50~1~start~gge10981~0~pinpart#@$T~P~657~-426.67~0~#000080~Arial~~~~~comment~R3~1~start~gge10987~0~pinpart#@$R~645~-440~~~10~20~#A00000~1~0~none~gge10993~0~#@$P~show~0~2~650~-410~270~gge10996~0^^650~-410^^M 650 -420 v 10~#800^^0~650~-424~270~2~start~~~#800^^0~646~-416~270~2~end~~~#800^^0~650~-397^^0~M 653 -400 L 650 -403 L 647 -400#@$P~show~0~1~650~-450~90~gge11017~0^^650~-450^^M 650 -440 v -10~#800^^0~650~-436~270~1~end~~~#800^^0~646~-444~270~1~start~~~#800^^0~650~-463^^0~M 647 -460 L 650 -457 L 653 -460",
+          "LIB~550~-450~package`R0603`nameAlias`Value(Ω)`Supplier Part``Supplier``Contributor`LCEDA_Lib`spicePre`R`spiceSymbolName`R_0603_EU`Manufacturer Part``~~0~gge2cb36626e43f1620~398691f1f785460098bbe5ee6590333c~bb009484ef804a24ac5d18c54b249586~0~348e53f374ff62b3~yes~yes~~1586862199~#@$T~N~544.03~-458~0~#000080~Arial~~~~~comment~R820~1~start~gge11056~0~pinpart#@$T~P~544.03~-466.79~0~#000080~Arial~~~~~comment~R2~1~start~gge11062~0~pinpart#@$R~540~-455~~~20~10~#A00000~1~0~none~gge11068~0~#@$P~show~0~2~570~-450~0~gge11071~0^^570~-450^^M 560 -450 h 10~#800^^0~556~-450~0~2~end~~~#800^^0~564~-454~0~2~start~~~#800^^0~583~-450^^0~M 580 -453 L 577 -450 L 580 -447#@$P~show~0~1~530~-450~180~gge11092~0^^530~-450^^M 540 -450 h -10~#800^^0~544~-450~0~1~start~~~#800^^0~536~-454~0~1~end~~~#800^^0~517~-450^^0~M 520 -447 L 523 -450 L 520 -453",
+          "LIB~590~-450~package`R0603`nameAlias`Value(Ω)`Supplier Part``Supplier``Contributor`LCEDA_Lib`spicePre`R`spiceSymbolName`R_0603_EU`Manufacturer Part``~~0~gge25603d6b8607f134~398691f1f785460098bbe5ee6590333c~bb009484ef804a24ac5d18c54b249586~0~bfb8a4a88880ffd2~yes~yes~~1586862199~#@$T~N~584.03~-458~0~#000080~Arial~~~~~comment~R820~1~start~gge11131~0~pinpart#@$T~P~584.03~-466.98~0~#000080~Arial~~~~~comment~R2~1~start~gge11137~0~pinpart#@$R~580~-455~~~20~10~#A00000~1~0~none~gge11143~0~#@$P~show~0~2~610~-450~0~gge11146~0^^610~-450^^M 600 -450 h 10~#800^^0~596~-450~0~2~end~~~#800^^0~604~-454~0~2~start~~~#800^^0~623~-450^^0~M 620 -453 L 617 -450 L 620 -447#@$P~show~0~1~570~-450~180~gge11167~0^^570~-450^^M 580 -450 h -10~#800^^0~584~-450~0~1~start~~~#800^^0~576~-454~0~1~end~~~#800^^0~557~-450^^0~M 560 -447 L 563 -450 L 560 -453",
+          "LIB~630~-450~package`R0603`nameAlias`Value(Ω)`Supplier Part``Supplier``Contributor`LCEDA_Lib`spicePre`R`spiceSymbolName`R_0603_EU`Manufacturer Part``~~0~ggec1d05d86f4c4be1d~398691f1f785460098bbe5ee6590333c~bb009484ef804a24ac5d18c54b249586~0~13503c921e7412ba~yes~yes~~1586862199~#@$T~N~624.03~-458~0~#000080~Arial~~~~~comment~R820~1~start~gge11206~0~pinpart#@$T~P~624.03~-466.98~0~#000080~Arial~~~~~comment~R2~1~start~gge11212~0~pinpart#@$R~620~-455~~~20~10~#A00000~1~0~none~gge11218~0~#@$P~show~0~2~650~-450~0~gge11221~0^^650~-450^^M 640 -450 h 10~#800^^0~636~-450~0~2~end~~~#800^^0~644~-454~0~2~start~~~#800^^0~663~-450^^0~M 660 -453 L 657 -450 L 660 -447#@$P~show~0~1~610~-450~180~gge11242~0^^610~-450^^M 620 -450 h -10~#800^^0~624~-450~0~1~start~~~#800^^0~616~-454~0~1~end~~~#800^^0~597~-450^^0~M 600 -447 L 603 -450 L 600 -453",
+          "LIB~705~-445~package`BNC`description`BNC Connector, Mouser Part# 5227161`Contributor`SparkFun`spicePre`U`spiceSymbolName`BNCPTH`Manufacturer Part``~~0~gge7e60ba1c917ad41d~ce2a4e6f222d4c1ca29866726d120f90~e8295cd7688d422db4e96654a94435a1~0~920c4689e43a9443~yes~yes~ab46d52788f24df48ce072a036649f08~1543270334~e24aac30db05486389b2638470b9b009#@$T~N~718.79~-463~0~#000080~Arial~~~~~comment~HF OUT -40dB~1~end~gge11281~0~pinpart#@$T~P~718.79~-471.98~0~#000080~Arial~~~~~comment~SO239~1~end~gge11287~0~pinpart#@$E~710~-450~10~10~#8D2323~1~0~none~gge11293~0#@$E~710~-450~2~2~#8D2323~1~0~none~gge11296~0#@$T~L~735~-440~0~#8D2323~~7~ ~ ~ ~comment~GND~1~end~gge11299~0~pinpart#@$T~L~699.09~-452.16~0~#8D2323~~7~ ~ ~ ~comment~Out~1~end~gge11305~0~pinpart#@$P~show~1~S~690~-450~180~gge11311~0^^690~-450^^M 690 -450 h 20~#8D2323^^0~713~-447~0~OUT~start~~~#8D2323^^0~704~-451~0~S~end~~~#8D2323^^0~707~-450^^0~M 710 -447 L 713 -450 L 710 -453#@$P~show~0~GND~710~-430~270~gge11332~0^^710~-430^^M 710 -430 v -10~#8D2323^^0~713~-443~270~GND~start~~~#8D2323^^0~709~-434~270~GND~end~~~#8D2323^^0~710~-437^^0~M 713 -440 L 710 -443 L 707 -440",
+          "F~part_netLabel_gnD~555~-385~0~gge11364~~0^^555~-385^^GND~#000000~542~-359~0~start~1~Times New Roman~9pt~flag_gge16^^PL~555 -375 555 -385~#000000~1~0~transparent~gge11376~0^^PL~546 -375 564 -375~#000000~1~0~transparent~gge11379~0^^PL~549 -373 561 -373~#000000~1~0~transparent~gge11382~0^^PL~552 -371 558 -371~#000000~1~0~transparent~gge11385~0^^PL~554 -369 556 -369~#000000~1~0~transparent~gge11388~0",
+          "W~650 -410 650 -385 435 -385 435 -430~#008800~1~0~none~gge11418~0",
+          "W~475 -410 475 -385~#008800~1~0~none~gge11421~0",
+          "W~515 -410 515 -385~#008800~1~0~none~gge11425~0",
+          "W~530 -450 455 -450~#008800~1~0~none~gge11454~0",
+          "W~710 -430 710 -385 650 -385~#008800~1~0~none~gge11460~0",
+          "W~690 -450 650 -450~#008800~1~0~none~gge11464~0",
+          "T~L~1005~-15~0~#0000FF~~9pt~~~~comment~Michael Trunke~1~start~gge11472~0~frame_company",
+          "J~475~-450~2.5~#CC0000~gge11357~0",
+          "J~475~-385~2.5~#CC0000~gge11422~0",
+          "J~515~-385~2.5~#CC0000~gge11426~0",
+          "J~555~-385~2.5~#CC0000~gge11430~0",
+          "J~515~-450~2.5~#CC0000~gge11455~0",
+          "J~650~-385~2.5~#CC0000~gge11461~0",
+          "J~650~-450~2.5~#CC0000~gge11465~0"
+        ],
+        "BBox": {
+          "x": 0,
+          "y": -806.5,
+          "width": 1149,
+          "height": 807
+        },
+        "colors": {}
+      }
+    }
+  ]
+}
